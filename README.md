@@ -1,5 +1,4 @@
-# comparing-sorting-algorithms
-
+# Comparing Sorting Algorithm
 ```
 1: Merge Sort
 2: Heap Sort
